@@ -1,9 +1,7 @@
 {
 	"dependencies": [
-		"nmlgc/base_tsa",
-		"nmlgc/script_latin",
-		"nmlgc/eastern_name_order_hepburn",
-		"thpatch/lang_ms"
+		"thpatch/lang_ms",
+		"nmlgc/eastern_name_order_hepburn"
 	],
 	"id": "ms-eastern",
 	"servers": [
