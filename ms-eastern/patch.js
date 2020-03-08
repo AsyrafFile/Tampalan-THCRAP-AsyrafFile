@@ -1,6 +1,7 @@
 {
 	"dependencies": [
 		"thpatch/lang_ms",
+		"nmlgc/western_name_order": false,
 		"nmlgc/eastern_name_order_hepburn"
 	],
 	"id": "ms-eastern",
