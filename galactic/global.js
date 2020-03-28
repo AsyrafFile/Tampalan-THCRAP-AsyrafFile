@@ -1,3 +1,3 @@
 {
-	"font": "Standard Galactic Alphabet"
+	"font": "Galactic Simple"
 }
