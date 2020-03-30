@@ -2,7 +2,7 @@
 	"contact": "AsyrafFile#8823",
 	"id": "AsyrafFile",
 	"patches": {
-		"galactic": "Replace non-diacritic Latin alphabet to Standard Galactic Alphabet from Commander Keen.",
+		"galactic": "Replace non-diacritic Latin alphabet to Standard Galactic Alphabet from Commander Keen and Minecraft.",
 		"ms-eastern": "Replace lang_ms western_name_order to eastern_name_order_hepburn."
 	},
 	"servers": [
